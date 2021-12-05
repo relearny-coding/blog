@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "description": "blog",
-  "author": "Hakim Mliki",
+  "author": "Relearny",
+  "copyright": "Relearny",
   "keywords": [
     "gatsby"
   ],
